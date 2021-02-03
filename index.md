@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 村帖
+
+* はじめてのGithub Pages
 
 You can use the [editor on GitHub](https://github.com/tomoharu33/gram/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

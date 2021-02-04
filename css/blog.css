@@ -41,6 +41,7 @@ html,body {
 }
 .articles {
   margin-top: -10%;
+  margin-bottom: 10%;
 }
 .articles .content p {
     line-height: 1.9;

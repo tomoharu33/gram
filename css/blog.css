@@ -11,7 +11,7 @@ html,body {
   font-weight: bold;
 }
 .hero-body
-{background-image: url(https://dol.ismcdn.jp/mwimgs/6/5/670m/img_65ae9d551a0302bf44ae314121e3f17291846.jpg);
+{background-image: url(../images/hero-image.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
